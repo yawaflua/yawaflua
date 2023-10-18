@@ -37,6 +37,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaFlay&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p>
 <p align="center">
    🌱 I’m currently learning Java and wanna learn Front-end(CSS, React)
-
-   📫 If u wanna help me, contact me in Discord: @YaFlay
+</p><p align="center">
+   📫 If u wanna help, contact me in Discord: @YaFlay
 </p>
