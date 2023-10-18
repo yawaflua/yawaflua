@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YaFlay
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Java and JavaScript
-- 📫 How to reach Senior in Py/JS
+- 👀 Right now using JS, C#, Py and Java for my projects
+- 🌱 I’m currently learning Java and wanna learn Front-end(CSS, React)
+- 📫 If u wanna help me, write in Discord: @YaFlay
 
 <!---
 YaFlay/YaFlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
