@@ -31,7 +31,7 @@
 <p align="left">For support me:</p>
 <p align="center"> <a href="https://boosty.to/yaflay" align="left"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" ></img></a></h2>
 <p align="left"> My stats: </p>
-<p align="center"><img src="https://metrics.lecoq.io/YaFlay?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow&config.twemoji=true&config.octicon=true" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/YaFlay/YaFlay/main/github-metrics.svg" alt="GitHub Streak" /></p>
 <!-- <p align="left"> My top-using languages: </p> -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YaFlay&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaFlay&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
