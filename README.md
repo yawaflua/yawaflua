@@ -38,5 +38,5 @@
 <p align="center">
    🌱 I’m currently learning Java and wanna learn Front-end(CSS, React)
 </p><p align="center">
-   📫 If u wanna help, contact me in Discord: @YaFlay
+   📫 If u wanna help, contact me in Discord: @<a href="https://discord.com/users/945317832290336798">YaFlay</a>
 </p>
