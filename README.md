@@ -26,10 +26,17 @@
 <p align="center">
   <a href="https://yaflay.ru/bump"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://yaflay.ru/shitpost"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://twitch.tv/bebra_yaflay"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+  <a href="https://yaflay.ru/twitch" ><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+  <a href="https://yaflay.ru/gh" class="hiden"><img src="https://img.shields.io/badge/YaFlay-black?style=for-the-badge&logo=github&logoColor=white" title="Me"/></a>
+  <a href="https://yaflay.ru/gh-team"><img src="https://img.shields.io/badge/StoreSPW-black?style=for-the-badge&logo=github" title="StoreSPW Team"/></a>
+  <a href="https://yaflay.ru/"><img src="https://img.shields.io/badge/MySite-bluerple?style=for-the-badge&logo=aboutdotme&color=%235865F2"></a>
 </p>
 <p align="left">For support me:</p>
-<p align="center"> <a href="https://boosty.to/yaflay" align="left"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" ></img></a></h2>
+<p align="center"> 
+  <a href="https://yaflay.ru/boosty"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" ></a>
+  <a href="https://yaflay.ru/patreon"><img src="https://img.shields.io/badge/support_me-red?style=for-the-badge&logo=patreon"></a>
+</p>
+
 <p align="left"> My stats: </p>
 <p align="center"><img src="https://raw.githubusercontent.com/YaFlay/YaFlay/main/github-metrics.svg" alt="GitHub Streak" /></p>
 <!-- <p align="left"> My top-using languages: </p> -->
