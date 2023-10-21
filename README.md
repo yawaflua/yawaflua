@@ -27,9 +27,11 @@
   <a href="https://yaflay.ru/bump"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://yaflay.ru/shitpost"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://yaflay.ru/twitch" ><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+  <a href="https://yaflay.ru/steam"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam"></a>
   <a href="https://yaflay.ru/gh" class="hiden"><img src="https://img.shields.io/badge/YaFlay-black?style=for-the-badge&logo=github&logoColor=white" title="Me"/></a>
   <a href="https://yaflay.ru/gh-team"><img src="https://img.shields.io/badge/StoreSPW-black?style=for-the-badge&logo=github" title="StoreSPW Team"/></a>
   <a href="https://yaflay.ru/"><img src="https://img.shields.io/badge/MySite-bluerple?style=for-the-badge&logo=aboutdotme&color=%235865F2"></a>
+ 
 </p>
 <p align="left">For support me:</p>
 <p align="center"> 
