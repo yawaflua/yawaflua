@@ -1,9 +1,9 @@
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </p>
-<h1 align="center">Hi there, I'm <a href="https://yaflay.ru/shitpost" target="_blank">YaFlay</a> 
+<h1 align="center">Hi there, I'm <a href="https://yaflay.ru/shitpost" target="_blank">yawaflua</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> .NET / Py backend-developer from Russian capital - Moscow  🇷🇺</h3>
+<h3 align="center"> .NET / Py backend-developer from Russian capital - Moscow </h3>
 <p align="left"> I use this frameworks and apps: </p>
   <p align="center">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></img>
@@ -24,8 +24,8 @@
 </p>
 <p align="left">My social networks:</p>
 <p align="center">
-  <a href="https://yaflay.ru/bump"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://yaflay.ru/shitpost"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://yaflay.ru/bump"><img src="https://img.shields.io/badge/bumpme-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://yaflay.ru/shitpost"><img src="https://img.shields.io/badge/shitposts-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://yaflay.ru/twitch" ><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
   <a href="https://yaflay.ru/steam"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam" /></a>
   <a href="https://yaflay.ru/gh" class="hiden"><img src="https://img.shields.io/badge/YaFlay-black?style=for-the-badge&logo=github&logoColor=white" title="Me"/></a>
@@ -40,7 +40,7 @@
   <a href="https://yaflay.ru/patreon"><img src="https://img.shields.io/badge/support_me-red?style=for-the-badge&logo=patreon"></a>
 </p>
 
-<p align="left"> My stats: </p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/YaFlay/YaFlay/main/github-metrics.svg" alt="GitHub Streak" /></p>
 <!-- <p align="left"> My top-using languages: </p> -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YaFlay&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
@@ -48,5 +48,5 @@
 <p align="center">
    🌱 I’m currently learning Java and wanna learn Front-end(CSS, React)
 </p><p align="center">
-   📫 If u wanna help, contact me in Discord: @<a href="https://discord.com/users/945317832290336798">YaFlay</a>
+   📫 If u wanna help, contact me in <a href="https://discord.com/users/945317832290336798">Discord</a>, <a href="https://t.me/spermosek">Telegram</a> or <a href="mailto:support@yaflay.ru">e-mail</a>
 </p>
