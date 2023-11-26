@@ -41,7 +41,7 @@
 </p>
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/YaFlay/YaFlay/main/github-metrics.svg" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/YaFlay/YaFlay/main/github-metrics.svg" alt="GitHub Streak" class="stats" /></p>
 <!-- <p align="left"> My top-using languages: </p> -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YaFlay&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaFlay&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
