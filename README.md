@@ -24,12 +24,11 @@
 </p>
 <p align="left">My social networks:</p>
 <p align="center">
-  <a href="https://yawaflua.ru/bump"><img src="https://img.shields.io/badge/bumpme-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  
   <a href="https://yawaflua.ru/shitpost"><img src="https://img.shields.io/badge/shitposts-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://yawaflua.ru/twitch" ><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
   <a href="https://yawaflua.ru/steam"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam" /></a>
   <a href="https://yawaflua.ru/gh" class="hiden"><img src="https://img.shields.io/badge/YaFlay-black?style=for-the-badge&logo=github&logoColor=white" title="Me"/></a>
-  <a href="https://yawaflua.ru/gh-team"><img src="https://img.shields.io/badge/StoreSPW-black?style=for-the-badge&logo=github" title="StoreSPW Team"/></a>
   <a href="https://yawaflua.ru/"><img src="https://img.shields.io/badge/MySite-bluerple?style=for-the-badge&logo=aboutdotme&color=%235865F2" /></a>
   <a href="mailto:admin@yawaflua.ru"><img src="https://img.shields.io/badge/MailTo-red?style=for-the-badge&logo=maildotru" /> </a>
  
