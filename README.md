@@ -16,7 +16,7 @@
   </p>
 <p align="left">I use or know these languages:</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-%2523239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
