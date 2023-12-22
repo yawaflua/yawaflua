@@ -2,7 +2,7 @@
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </p>
 <h1 align="center">Hi there, I'm <a href="https://yaflay.ru/shitpost" target="_blank">yawaflua</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> .NET / Py backend-developer from Russian capital - Moscow </h3>
 <p align="left"> I use this frameworks and apps: </p>
   <p align="center">
