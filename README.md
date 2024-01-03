@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm <a href="https://yaflay.ru/shitpost" target="_blank">yawaflua</a> 
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> .NET / Py backend-developer from Russian capital - Moscow </h3>
-<p align="left"> I use this frameworks and apps: </p>
+<p align="left"> I use this frameworks, apps or platforms: </p>
   <p align="center">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/ARDUINO-black?style=for-the-badge&logo=arduino&color=%23038C8C">
+    <img src="https://img.shields.io/badge/Discord.NET-black?style=for-the-badge&logo=discord&logoColor=white&color=%2368217a">
   </p>
 <p align="left">I use or know these languages:</p>
 <p align="center">
@@ -21,6 +23,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go&logoColor=white&color=%2329BEB0">
 </p>
 <p align="left">My social networks:</p>
 <p align="center">
