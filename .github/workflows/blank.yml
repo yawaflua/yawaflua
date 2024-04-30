@@ -26,16 +26,11 @@ jobs:
 
           # Options
           user: yawaflua
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
+          commits_authoring: yawaflua
+          config_display: columns
           config_timezone: Europe/Moscow
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -47,11 +42,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://yawaflua.ru/
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
