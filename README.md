@@ -4,6 +4,8 @@ class AboutMe
 {
   public string[] pronounces = ["he", "him"];
   public string[] searchingFor = ["Full-stack developer", "DevOps Engineer"];
+  public bool availableForHire = true;
+  public Url myWebsite = new Url("https://yawaflua.ru/");
   public Dictionary<TypeOfAnknowledges, string[]> anknowledges = new(){
     {
         DevOps, [
@@ -48,12 +50,12 @@ class AboutMe
   };
 
   public AboutMe()
-    => Console.WriteLine("Hello, Github!");
+    => Console.WriteLine("Hello, GitHub!");
 }
 ```
-~~That`s a .NET8~~
 
 ![](https://raw.githubusercontent.com/yawaflua/yawaflua/main/github-metrics.svg)
-###   🌱 I’m currently learning to FrontEnd frameworks (Tailwind CSS, Vue.js)
 
-### 📫 If u wanna help, contact me in [Discord](https://discord.com/users/945317832290336798), [Telegram](https://t.me/ForAskAboutBot/?start=yawaflua) or [e-mail](mailto:support-gh@yawaflua.ru)
+###   🌱 I am currently studying for the frontend frameworks, such as Vue.js, React
+
+###   💼 Available for hire! Contact me in [Discord](https://discord.com/users/945317832290336798), [Telegram](https://t.me/ForAskAboutBot/?start=yawaflua) or [e-mail](mailto:fire@yawaflua.ru)
