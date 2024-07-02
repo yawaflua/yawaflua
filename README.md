@@ -58,4 +58,4 @@ class AboutMe
 
 ###   🌱 I am currently studying for the frontend frameworks, such as Vue.js, React
 
-###   💼 Available for hire! Contact me in [Discord](https://discord.com/users/945317832290336798), [Telegram](https://t.me/ForAskAboutBot/?start=yawaflua) or [e-mail](mailto:fire@yawaflua.ru)
+###   💼 Available for hire! Contact me in [Discord](https://discord.com/users/945317832290336798), [Telegram](https://t.me/yawaflua_biz) or [e-mail](mailto:fire@yawaflua.ru)
