@@ -5,7 +5,6 @@ class AboutMe
   public string[] pronounces = ["he", "him"];
   public string[] searchingFor = ["Full-stack developer", "DevOps Engineer"];
   public bool availableForHire = true;
-  public Url myWebsite = new Url("https://yawaflua.ru/");
   public Dictionary<TypeOfAnknowledges, string[]> anknowledges = new(){
     {
         DevOps, [
