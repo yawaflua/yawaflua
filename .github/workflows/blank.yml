@@ -29,7 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          base_indepth: yes
           config_timezone: Asia/Jerusalem
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -44,9 +43,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_ignored: html, css
-          plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: Diamond-Studio/*,DITTeam/*,RoyalArena/*
+          plugin_languages_ignored: html, css, CMake
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
@@ -54,5 +51,4 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          repositories_affiliations: owner, contributor
-          repositories_forks: yes
+          repositories_affiliations: owner,collaborator
