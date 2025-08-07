@@ -1,4 +1,4 @@
-# Hi there, I`m [yawaflua](https://yawaflua.ru)
+## Hi there, I`m yawaflua
 ```cs
 class AboutMe
 {
@@ -8,7 +8,7 @@ class AboutMe
   public Dictionary<TypeOfAnknowledges, string[]> anknowledges = new(){
     {
         DevOps, [
-            "Docker", "Docker-compose", "AWS"
+            "Docker", "Docker-compose", "AWS", "Azure", "Portainer"
             ]
     },
     {
@@ -18,17 +18,17 @@ class AboutMe
     },
     {
         Databases, [
-            "SQLite3", "PostgreSQL"
+            "SQLite3", "PostgreSQL", "Redis"
             ]
     },
     {
         Frameworks, [
-            "ASP/.NET", "Vue.js", "Django", "Flask", "Discord.NET", "Telegram.NET"
+            "ASP/.NET", "Vue.js", "Django", "Flask", "Discord.NET", "Telegrator", "net/http", "sqlx"
             ]
     },
     {
         Platforms, [
-            "Ubuntu", "Windows", "Arduino", "Android"
+            "Ubuntu/Nix", "Windows", "Arduino", "Android"
             ]
     },
     {
@@ -38,12 +38,12 @@ class AboutMe
     },
     {
         BackEnd, [
-            "ASP.NET Core", "Django", "Flask"
+            "ASP.NET Core", "Django", "Flask", "net/http", "gin"
             ]
     },
     {
         Others, [
-            "Postman", "Swagger", "Minecraft Plugins DEV", "Vercel"
+            "Postman", "Swagger", "Minecraft Plugins DEV", "Vercel", "NATS - Message broker", "API proto", "ElasticSearch"
         ]
     }
   };
@@ -57,4 +57,4 @@ class AboutMe
 
 ###   🌱 I am currently studying for the frontend frameworks, such as Vue.js, React
 
-###   💼 Available for hire! Contact me in [Discord](https://discord.com/users/945317832290336798), [Telegram](https://t.me/yawaflua_biz) or [e-mail](mailto:yawaflua.il@gmail.com)
+###   💼 Available for hire! Contact me in [Discord](https://discord.com/users/945317832290336798), [Telegram](https://t.me/yawaflua) or [e-mail](mailto:yawaflua.il@gmail.com)
