@@ -1,8 +1,7 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 12 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -29,26 +28,29 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
+          base_indepth: yes
           config_timezone: Asia/Jerusalem
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 90
-          plugin_languages_analysis_timeout_repositories: 9.5
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_details: percentage
-          plugin_languages_ignored: html, css, CMake
-          plugin_languages_limit: 10
+          plugin_languages_ignored: html, css, cmake
+          plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: DITTeam/*, Diamonds-Studio/*, RoyalArena/*, sp-sale/*
+          plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          repositories_affiliations: owner
+          plugin_steam: yes
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_limit: 1
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_user: 76561198810888396
+          repositories_affiliations: owner, contributor
+          repositories_forks: yes
