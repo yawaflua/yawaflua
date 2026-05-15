@@ -22,25 +22,25 @@ jobs:
           token = "${{ secrets.METRICS_TOKEN }}"
           headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
 
-          repos = [
-            "yawaflua/HallOfDoors", "yawaflua/ShardLight", "yawaflua/sigma_market",
-            "yawaflua/hall_of_doors", "yawaflua/shardlight-web-panel", "yawaflua/AskMeAboutBot",
-            "yawaflua/binarshina", "yawaflua/SpectrBot", "yawaflua/shardlight-harmony",
-            "yawaflua/Plinko.Games.Elysium", "yawaflua/Dice.Elysium", "yawaflua/ElysiumChat",
-            "yawaflua/FireWatch", "yawaflua/S3-Container", "yawaflua/SkinsApi",
-            "yawaflua/FileSender", "yawaflua/PSQL_backupper", "yawaflua/TGShock",
-            "yawaflua/BiahadHakatonProject", "yawaflua/WebSockets", "yawaflua/Telegram.Net",
-            "yawaflua/PixelTalk", "yawaflua/SPMega", "yawaflua/vue.yawaflua.ru",
-            "yawaflua/react-frontend.yawaflua.ru", "yawaflua/api.yawaflua.ru",
-            "yawaflua/Aoyo", "yawaflua/TheatreCube", "yawaflua/Discord.Net",
-            "yawaflua/Aoyo.Taiga", "yawaflua/OrderHabrFreelance", "yawaflua/PL_JusticeBot",
-            "yawaflua/Q-FordBot", "yawaflua/SPWorlds", "yawaflua/Telegram-Bot-Template",
-            "yawaflua/SexPlugin", "yawaflua/frontend.yawaflua.ru", "yawaflua/Go.Template.Elysium",
-            "yawaflua/TestAnswer", "DITTeam/DIT.Notifier", "DITTeam/Aoyo.Elysium",
-            "DITTeam/Elysium.Telegram", "DITTeam/ElysiumBitcoinProcessor", "DITTeam/ElysiumBackend",
-            "DITTeam/VideoCutv1", "RoyalArena/SpDonate", "RoyalArena/SPDonateFrontend",
-            "Diamonds-studio/SpDonateDeprecated"
-          ]
+          def get_repos(url):
+              repos = []
+              while url:
+                  req = urllib.request.Request(url, headers=headers)
+                  with urllib.request.urlopen(req) as r:
+                      repos += json.loads(r.read())
+                      link = r.headers.get('Link', '')
+                      url = None
+                      for part in link.split(','):
+                          if 'rel="next"' in part:
+                              url = part.split(';')[0].strip().strip('<>')
+              return repos
+
+          # все репы пользователя
+          all_repos = []
+          all_repos += get_repos("https://api.github.com/user/repos?per_page=100&affiliation=owner,collaborator,organization_member&visibility=all")
+
+          repo_names = list({r['full_name'] for r in all_repos})
+          print(f"Found {len(repo_names)} repositories")
 
           ignored = {'HTML', 'CSS', 'CMake', 'Dockerfile', 'Makefile', 'YAML', 'JSON',
                      'XML', 'Markdown', 'Text', 'SVG', 'Batchfile', 'PowerShell',
@@ -52,7 +52,7 @@ jobs:
           }
 
           langs = {}
-          for repo in repos:
+          for repo in repo_names:
               try:
                   req = urllib.request.Request(f"https://api.github.com/repos/{repo}/languages", headers=headers)
                   with urllib.request.urlopen(req) as r:
@@ -88,8 +88,7 @@ jobs:
               svg += f'<rect x="{16 + cx:.2f}" y="{header_h}" width="{w:.2f}" height="{bar_h}" fill="{color}"/>\n'
               cx += w
 
-          items = list(langs.items())
-          for i, (lang, count) in enumerate(items):
+          for i, (lang, count) in enumerate(langs.items()):
               col = i % 2
               row = i // 2
               lx = 16 + col * 232
@@ -116,3 +115,4 @@ jobs:
           git add languages.svg
           git diff --staged --quiet || git commit -m "Update languages.svg - [Skip GitHub Action]"
           git push
+
