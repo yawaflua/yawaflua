@@ -55,6 +55,8 @@ class AboutMe
 
 ![](https://raw.githubusercontent.com/yawaflua/yawaflua/main/github-metrics.svg)
 
+![](https://raw.githubusercontent.com/yawaflua/yawaflua/main/languages.svg)
+
 ###   🌱 I am currently studying for the frontend frameworks, such as Vue.js, React
 
 ###   💼 Available for hire! Contact me in [Discord](https://discord.com/users/945317832290336798), [Telegram](https://t.me/yawaflua) or [e-mail](mailto:yawaflua.il@gmail.com)
