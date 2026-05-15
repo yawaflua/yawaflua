@@ -1,0 +1,118 @@
+name: Language Stats
+
+on:
+  schedule: [{cron: "0 0 * * 0"}]
+  workflow_dispatch:
+
+jobs:
+  language-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate language SVG
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, math
+
+          token = "${{ secrets.METRICS_TOKEN }}"
+          headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
+
+          repos = [
+            "yawaflua/HallOfDoors", "yawaflua/ShardLight", "yawaflua/sigma_market",
+            "yawaflua/hall_of_doors", "yawaflua/shardlight-web-panel", "yawaflua/AskMeAboutBot",
+            "yawaflua/binarshina", "yawaflua/SpectrBot", "yawaflua/shardlight-harmony",
+            "yawaflua/Plinko.Games.Elysium", "yawaflua/Dice.Elysium", "yawaflua/ElysiumChat",
+            "yawaflua/FireWatch", "yawaflua/S3-Container", "yawaflua/SkinsApi",
+            "yawaflua/FileSender", "yawaflua/PSQL_backupper", "yawaflua/TGShock",
+            "yawaflua/BiahadHakatonProject", "yawaflua/WebSockets", "yawaflua/Telegram.Net",
+            "yawaflua/PixelTalk", "yawaflua/SPMega", "yawaflua/vue.yawaflua.ru",
+            "yawaflua/react-frontend.yawaflua.ru", "yawaflua/api.yawaflua.ru",
+            "yawaflua/Aoyo", "yawaflua/TheatreCube", "yawaflua/Discord.Net",
+            "yawaflua/Aoyo.Taiga", "yawaflua/OrderHabrFreelance", "yawaflua/PL_JusticeBot",
+            "yawaflua/Q-FordBot", "yawaflua/SPWorlds", "yawaflua/Telegram-Bot-Template",
+            "yawaflua/SexPlugin", "yawaflua/frontend.yawaflua.ru", "yawaflua/Go.Template.Elysium",
+            "yawaflua/TestAnswer", "DITTeam/DIT.Notifier", "DITTeam/Aoyo.Elysium",
+            "DITTeam/Elysium.Telegram", "DITTeam/ElysiumBitcoinProcessor", "DITTeam/ElysiumBackend",
+            "DITTeam/VideoCutv1", "RoyalArena/SpDonate", "RoyalArena/SPDonateFrontend",
+            "Diamonds-studio/SpDonateDeprecated"
+          ]
+
+          ignored = {'HTML', 'CSS', 'CMake', 'Dockerfile', 'Makefile', 'YAML', 'JSON',
+                     'XML', 'Markdown', 'Text', 'SVG', 'Batchfile', 'PowerShell',
+                     'EditorConfig', 'Ini', 'TOML', 'Nix'}
+          colors = {
+            'C#': '#178600', 'C++': '#f34b7d', 'JavaScript': '#f1e05a',
+            'TypeScript': '#3178c6', 'Go': '#00ADD8', 'Python': '#3572A5',
+            'Java': '#b07219', 'Vue': '#41b883', 'Shell': '#89e051'
+          }
+
+          langs = {}
+          for repo in repos:
+              try:
+                  req = urllib.request.Request(f"https://api.github.com/repos/{repo}/languages", headers=headers)
+                  with urllib.request.urlopen(req) as r:
+                      data = json.loads(r.read())
+                  for lang, bytes_ in data.items():
+                      if lang not in ignored:
+                          langs[lang] = langs.get(lang, 0) + bytes_
+              except Exception as e:
+                  print(f"Skip {repo}: {e}")
+
+          langs = dict(sorted(langs.items(), key=lambda x: x[1], reverse=True)[:10])
+          total = sum(langs.values())
+
+          if total == 0:
+              print("No data")
+              exit(1)
+
+          bar_width = 448
+          row_h = 30
+          padding = 16
+          bar_h = 8
+          header_h = 44
+          height = header_h + bar_h + padding + math.ceil(len(langs) / 2) * row_h + padding * 2
+
+          svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="480" height="{height}" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">\n'
+          svg += f'<rect width="480" height="{height}" rx="6" fill="#fff" stroke="#e1e4e8"/>\n'
+          svg += f'<text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>\n'
+
+          cx = 0
+          for lang, count in langs.items():
+              w = count / total * bar_width
+              color = colors.get(lang, '#ededed')
+              svg += f'<rect x="{16 + cx:.2f}" y="{header_h}" width="{w:.2f}" height="{bar_h}" fill="{color}"/>\n'
+              cx += w
+
+          items = list(langs.items())
+          for i, (lang, count) in enumerate(items):
+              col = i % 2
+              row = i // 2
+              lx = 16 + col * 232
+              ly = header_h + bar_h + padding + row * row_h + 14
+              pct = count / total * 100
+              color = colors.get(lang, '#ededed')
+              svg += f'<circle cx="{lx + 6}" cy="{ly - 4}" r="6" fill="{color}"/>\n'
+              svg += f'<text x="{lx + 18}" y="{ly}" fill="#24292e" font-size="12">{lang}</text>\n'
+              svg += f'<text x="{lx + 18}" y="{ly + 14}" fill="#586069" font-size="11">{pct:.1f}%</text>\n'
+
+          svg += '</svg>'
+
+          with open('languages.svg', 'w') as f:
+              f.write(svg)
+          print(f"Done: {len(langs)} languages, {total} bytes total")
+          for l, b in langs.items():
+              print(f"  {l}: {b/total*100:.1f}%")
+          EOF
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          git diff --staged --quiet || git commit -m "Update languages.svg - [Skip GitHub Action]"
+          git push
