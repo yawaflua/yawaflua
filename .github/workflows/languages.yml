@@ -44,7 +44,8 @@ jobs:
 
           ignored = {'HTML', 'CSS', 'CMake', 'Dockerfile', 'Makefile', 'YAML', 'JSON',
                      'XML', 'Markdown', 'Text', 'SVG', 'Batchfile', 'PowerShell',
-                     'EditorConfig', 'Ini', 'TOML', 'Nix', 'C', 'SCSS'}
+                     'EditorConfig', 'Ini', 'TOML', 'Nix', 'SCSS', 'GLSL'}
+          skipped_repos = {'yawaflua/mt7902_temp'}
           colors = {
             'C#': '#178600', 'C++': '#f34b7d', 'JavaScript': '#f1e05a',
             'TypeScript': '#3178c6', 'Go': '#00ADD8', 'Python': '#3572A5',
@@ -53,6 +54,8 @@ jobs:
 
           langs = {}
           for repo in repo_names:
+              if repo in skipped_repos:
+                  continue
               try:
                   req = urllib.request.Request(f"https://api.github.com/repos/{repo}/languages", headers=headers)
                   with urllib.request.urlopen(req) as r:
