@@ -37,6 +37,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: yawaflua/HallOfDoors, yawaflua/ShardLight, yawaflua/sigma_market, yawaflua/hall_of_doors, yawaflua/shardlight-web-panel, yawaflua/AskMeAboutBot, yawaflua/binarshina, yawaflua/SpectrBot, yawaflua/shardlight-harmony, yawaflua/Plinko.Games.Elysium, yawaflua/Dice.Elysium, yawaflua/ElysiumChat, yawaflua/FireWatch, yawaflua/S3-Container, yawaflua/SkinsApi, yawaflua/FileSender, yawaflua/PSQL_backupper, yawaflua/TGShock, yawaflua/BiahadHakatonProject, yawaflua/WebSockets, yawaflua/Telegram.Net, yawaflua/PixelTalk, yawaflua/SPMega, yawaflua/vue.yawaflua.ru, yawaflua/react-frontend.yawaflua.ru, yawaflua/api.yawaflua.ru, yawaflua/Aoyo, yawaflua/TheatreCube, yawaflua/tzeva-adom, yawaflua/SpCloudCore
           plugin_languages_recent_load: 9999
           plugin_languages_recent_days: 9999
           plugin_languages_limit: 8
