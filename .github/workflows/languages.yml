@@ -44,7 +44,7 @@ jobs:
 
           ignored = {'HTML', 'CSS', 'CMake', 'Dockerfile', 'Makefile', 'YAML', 'JSON',
                      'XML', 'Markdown', 'Text', 'SVG', 'Batchfile', 'PowerShell',
-                     'EditorConfig', 'Ini', 'TOML', 'Nix'}
+                     'EditorConfig', 'Ini', 'TOML', 'Nix', 'C', 'SCSS'}
           colors = {
             'C#': '#178600', 'C++': '#f34b7d', 'JavaScript': '#f1e05a',
             'TypeScript': '#3178c6', 'Go': '#00ADD8', 'Python': '#3572A5',
