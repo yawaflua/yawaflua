@@ -1,3 +1,4 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -37,7 +38,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: html, css, cmake
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: DITTeam/*, Diamonds-Studio/*, RoyalArena/*, sp-sale/*
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
@@ -45,12 +45,5 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198810888396
           repositories_affiliations: owner, contributor
           repositories_forks: yes
