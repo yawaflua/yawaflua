@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">
 <rect width="480" height="250" rx="6" fill="#fff" stroke="#e1e4e8"/>
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
-<rect x="16.00" y="44" width="167.37" height="8" fill="#178600"/>
-<rect x="183.37" y="44" width="82.03" height="8" fill="#f34b7d"/>
-<rect x="265.40" y="44" width="48.83" height="8" fill="#3178c6"/>
-<rect x="314.23" y="44" width="47.84" height="8" fill="#41b883"/>
-<rect x="362.08" y="44" width="42.87" height="8" fill="#3572A5"/>
-<rect x="404.94" y="44" width="31.11" height="8" fill="#f1e05a"/>
-<rect x="436.06" y="44" width="17.79" height="8" fill="#b07219"/>
-<rect x="453.85" y="44" width="10.07" height="8" fill="#00ADD8"/>
+<rect x="16.00" y="44" width="167.28" height="8" fill="#178600"/>
+<rect x="183.28" y="44" width="81.96" height="8" fill="#f34b7d"/>
+<rect x="265.24" y="44" width="48.79" height="8" fill="#3178c6"/>
+<rect x="314.03" y="44" width="47.80" height="8" fill="#41b883"/>
+<rect x="361.83" y="44" width="42.83" height="8" fill="#3572A5"/>
+<rect x="404.66" y="44" width="31.09" height="8" fill="#f1e05a"/>
+<rect x="435.74" y="44" width="18.12" height="8" fill="#b07219"/>
+<rect x="453.86" y="44" width="10.06" height="8" fill="#00ADD8"/>
 <rect x="463.92" y="44" width="0.08" height="8" fill="#89e051"/>
 <circle cx="22" cy="78" r="6" fill="#178600"/>
 <text x="34" y="82" fill="#24292e" font-size="12">C#</text>
-<text x="34" y="96" fill="#586069" font-size="11">37.4%</text>
+<text x="34" y="96" fill="#586069" font-size="11">37.3%</text>
 <circle cx="254" cy="78" r="6" fill="#f34b7d"/>
 <text x="266" y="82" fill="#24292e" font-size="12">C++</text>
 <text x="266" y="96" fill="#586069" font-size="11">18.3%</text>
