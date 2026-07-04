@@ -217,13 +217,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/>
                             </svg>
-                            infajjir ya-ibn kal'b
+                            Itamar Ben-Gvir
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            119 games
+                            118 games
                         </div>
                     </section>
                     <section>
@@ -316,7 +316,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        11 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -333,24 +333,24 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 32 achievements unlocked
+                                            5 / 32 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QALBAAAQQBAwIFAwUBAAAAAAAAAQIDBAURBhIhAAcTFCIxQUJRcRUXMlJhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgT/xAAmEQABAwIFAwUAAAAAAAAAAAABAgQRAAMSEzJBYTFR8DNxgaGx/9oADAMBAAIRAxEAPwAYr4bcedVPXkSYauYrILBCFuo3FCi2SCCoEe33GPnrT6v7Z3lJrJ6hrosi1XsD7CmGjuU2ckbh9KgAcj/OOOrnZDV9nWPTKtqFAnwmGXrJImNKcMZTaMqLeOQVYSDj8/B62v7qwmdQM38WrU49IW4uXDW/uU2rYhAUlzH8SlJwnAxgnOFdQu4lGo1psM7zj0kzt9E/gNGWlNCRZtsxU6ok29LYS5Bhxz5ALZDwx6Vr3e/I4A+Rz1F19o210PeqrLlCcqBWw+2cofRnG5P/AEHkdMtj3SrZmp1MR2c0smWzNSp9sBbEhKUpU4U/WEY3AZGVD3I4J5q/Wt205qrTmonBduGQYrEqcApUTw1kFTQxhJUkDJGPvz00rSvSam+1ut4zUxPTzzqO9UuwFe83bTLv9STVx20GAJrjIdbaccAV6wSNoKQQFE4zgH36vzu2kmqop1jAtYTvkWl+fktqPhKbUAAhBx6l7CokD+yQDnoz7ea3ttF2viV011iFIUkS2ktpcC0cjISrgqAJI5HPvx1vtad1auO/SVWk65ibp2sSl9bcxCmxLke4U4kYztJJweCok+wHSXbSvVVtnl5rOUYngHYjfgmrS+0jLFlE36kgo07NaRIbsHgElYIytKSfSDySASMg/O09GPdqpchamVY+admxbUuPsS3UpQqQEq2FzangJJHp+4wfnrc6H7tVAjWtXqqu8rTLzKhMQQXBHezuKEBWcAq9afhKs/Bx0Y611dbaxtROuZHiltJbYbSgIS03nhIA4/PQi2lE4RQ5eXnWHOVMe3A+TAAk9hX/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcAAwUI/8QAKxAAAQQBAwMCBQUAAAAAAAAAAQIDBBEFAAYSITFBE1EHCCJxgSMkMmGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAlEQACAQQBAQkAAAAAAAAAAAABAgMABAURMVEGEiFBYXGBkfD/2gAMAwEAAhEDEQA/AEJqacfy8bbgZfJZc5fFMZVl3HrSwyojlzCwFAFVBKqIpV/nvoP3ttvG4bcy2MDlG5sJSlUhIK3YpB6tPV9JINi0k3WsuwRSxo1vA1xKsSDZJoNAJIAFk9BqEUSD3GipqBHaXzS2AoEkf0SPGh7IMJYfKEEUDX8+R/PtpW3vUnYqoq9l+zNxioFmlYHZ14b9NeXv+4fPyoQYU/LTZD6/3mMTyZboA/qWCq65EUKq66g1et3417BcyW4Wmds7UhxGlIM6dm1KDSAQTaSQenbkqkkm+nk65xwecymBlLkYXISYL60FtS2FlJUn2OikfFre5xsqC9nXpEeShTbgfbQslKgQRZFjoTpsjY0a56OQxsHXkVZtzBZ7cGLlTcPj3JzETj6xZT9SuRoBtPdRHQn2++gzINSAouvoPEuKa9ThxtaasEeFAEWO/XWvA3xufHQkQsbm5sKGghSY8Zfptg/YD/ffzq7dG/M/ujFxoGaksvsMOl5JSwhC1LKeNqIHU150CK2SI95RVTIZu6yEYinbYHH1r56753vrX//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>CONTRACTOR</div>
+                                                <div>PINATA</div>
                                                 <div class="unlocked">3 Jul 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcF/8QALBAAAQQBAwMDBAEFAAAAAAAAAQIDBAURBhIhAAcxEyJBCBRRcRYyQlNhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAhEQACAgICAQUAAAAAAAAAAAABAgMRAAQScRMhMWGRsf/aAAwDAQACEQMRAD8AjFfDbjzqp68iTDVzFZBYIQt1G4oUWyQQVAjx+Rj56T6v7Z3lJrJ6hrosi1XsD7CmGjuU2ckbh/aoAHI/1xx0o+ni/uV3g01AiVk1lwOTGjYoKkxVpTypBHI3HaDj9/tw53FiVvdMLnVT8He/snCW4Cpp4oQ2pST/AIwlORyM+R/VjrLMF986xQvLfAXQs9ZI9KaEizbZip1RJt6WwlyDDjn7ALZDwx7Vr3eeRwB8jnrF19o210PeqrLlCcqBWw+2cofRnG5P/QeR1eqLWX8v1kurhwFNQ5s1E6GJCUHY6hOFOrz52hG9KRnKxgnAIMn1frW7ac1VpvUaxdO/cGKxJnAKXE9NZBU2MYSpSQMkY/PPUrhxanGfXk134SrRzT+n6C+zcy70WSaphpJgpmuMB1tpxwBXvBICQQkgKJxuwD56Va37eyLC8utQSL5FhUMpQ9OljaheCEhSEJA2KWEjIAPykck9Sft5re20Xa+pXTXWIUhSRLaS2lwLRyMhKuCoAkjkc+eOn2tO6tXHfpKrSdcxN07WJS+tuYhTYlyPIU4kYztJJweCok+AOp0Dimx19mTWYvEaNV94u0t26Zr7qFO1BqNlurTHL1TOivekCSSoEKVgII3FW07grcfIBHUe7t1TsTU67JUt2dGtlOSGJjqEIVICV7FObU8BJI9v5GD89OND92qgRrWr1VXfa0y8yoTEEFwR3s7ihAVnAKven4SrPwcdTHWurrbWNqJ1zI9UtpLbDaUBCWm88JAHH76ERYxS47O1LtP5JTZ6A/Pn17z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUDBAYI/8QAKRAAAgIBAwIGAgMBAAAAAAAAAQIDBAUAESEGEgcTMVFhcSJBCDKBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQX/xAAmEQACAQMCBAcAAAAAAAAAAAABAhEAAyEEBTFBcaESExRRgeHw/9oADAMBAAIRAxEAPwASwmKu5vK1sbi4GsXbLhIo1IG5+SeAPk67zxF8OqXh9haa5rKvb6juqWjqVVAhhQHl3Zvyb2GwG539tdP4MUslivDHqzqfpym8+eM0dKvIkPmvFFupkZF/ZHdv+/6j20W5fvyeQjmsWLNixYk7pJ53Lu3G55P+6K5eW2QGroaPbbusRntEYIETkyYEDrzqZiaa38nVqPYhrLNKsZlmYqq7kDcnY6yZmlDjshcppYSy8Fho1lhbujZQSPXYHfcD41vLDTmsSVI4ex0G4kHrvqHICJGDHdgTufnU2b4uyIj7pdy2p9AFYuHBJEicFeIyBw716Z/ib1VXbF3+lpVZbccj3om47WjIUMPsNz9HQbWpz3rcSY+FrFiASzyxx8v5ab9x29TsOdtQsTkruHyEN7GWZatuE7pLExUj4+j7acugPHjH4wySdSdOwG+3DXsbXjjkl3O7FxxzvseDrbtkXYk/oij0G4tofGUWSYg+xDBp7RREiwQXJLvnoyOPxVTuST/301DtRyxzsLEUkUh/Iq6lSAeRwdOXUvjjil8yfo3pGjQyshO+RswRGRRzyAo5b98nb70IX7lnIXZ7d6eSxancvJLI3czsfUk6mzY8qSTJwPgU257r64KiWwigs0AkyzcTnpgcq//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>TRADESMAN</div>
+                                                <div>WHAT COULD GO WRONG</div>
                                                 <div class="unlocked">3 Jul 2026</div>
                                             </div>
                                             <div class="description"></div>
@@ -358,7 +358,7 @@
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -369,7 +369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2026, 05:10:32 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2026, 05:08:39 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
