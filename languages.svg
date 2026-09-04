@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">
 <rect width="480" height="250" rx="6" fill="#fff" stroke="#e1e4e8"/>
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
-<rect x="16.00" y="44" width="246.17" height="8" fill="#00ADD8"/>
-<rect x="262.17" y="44" width="65.56" height="8" fill="#178600"/>
-<rect x="327.73" y="44" width="34.40" height="8" fill="#3178c6"/>
+<rect x="16.00" y="44" width="246.18" height="8" fill="#00ADD8"/>
+<rect x="262.18" y="44" width="65.56" height="8" fill="#178600"/>
+<rect x="327.73" y="44" width="34.39" height="8" fill="#3178c6"/>
 <rect x="362.13" y="44" width="28.11" height="8" fill="#f34b7d"/>
 <rect x="390.23" y="44" width="21.51" height="8" fill="#f1e05a"/>
 <rect x="411.74" y="44" width="17.60" height="8" fill="#3572A5"/>
