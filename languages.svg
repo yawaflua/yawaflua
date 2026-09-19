@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">
 <rect width="480" height="250" rx="6" fill="#fff" stroke="#e1e4e8"/>
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
-<rect x="16.00" y="44" width="246.13" height="8" fill="#00ADD8"/>
-<rect x="262.13" y="44" width="65.55" height="8" fill="#178600"/>
-<rect x="327.67" y="44" width="34.47" height="8" fill="#3178c6"/>
-<rect x="362.14" y="44" width="28.10" height="8" fill="#f34b7d"/>
-<rect x="390.24" y="44" width="21.51" height="8" fill="#f1e05a"/>
-<rect x="411.75" y="44" width="17.60" height="8" fill="#3572A5"/>
-<rect x="429.35" y="44" width="16.39" height="8" fill="#41b883"/>
-<rect x="445.74" y="44" width="14.86" height="8" fill="#b07219"/>
-<rect x="460.59" y="44" width="3.31" height="8" fill="#ededed"/>
+<rect x="16.00" y="44" width="246.95" height="8" fill="#00ADD8"/>
+<rect x="262.95" y="44" width="65.28" height="8" fill="#178600"/>
+<rect x="328.23" y="44" width="34.33" height="8" fill="#3178c6"/>
+<rect x="362.56" y="44" width="27.98" height="8" fill="#f34b7d"/>
+<rect x="390.55" y="44" width="21.42" height="8" fill="#f1e05a"/>
+<rect x="411.96" y="44" width="17.52" height="8" fill="#3572A5"/>
+<rect x="429.49" y="44" width="16.33" height="8" fill="#41b883"/>
+<rect x="445.81" y="44" width="14.79" height="8" fill="#b07219"/>
+<rect x="460.60" y="44" width="3.30" height="8" fill="#ededed"/>
 <rect x="463.90" y="44" width="0.10" height="8" fill="#89e051"/>
 <circle cx="22" cy="78" r="6" fill="#00ADD8"/>
 <text x="34" y="82" fill="#24292e" font-size="12">Go</text>
-<text x="34" y="96" fill="#586069" font-size="11">54.9%</text>
+<text x="34" y="96" fill="#586069" font-size="11">55.1%</text>
 <circle cx="254" cy="78" r="6" fill="#178600"/>
 <text x="266" y="82" fill="#24292e" font-size="12">C#</text>
 <text x="266" y="96" fill="#586069" font-size="11">14.6%</text>
@@ -22,7 +22,7 @@
 <text x="34" y="126" fill="#586069" font-size="11">7.7%</text>
 <circle cx="254" cy="108" r="6" fill="#f34b7d"/>
 <text x="266" y="112" fill="#24292e" font-size="12">C++</text>
-<text x="266" y="126" fill="#586069" font-size="11">6.3%</text>
+<text x="266" y="126" fill="#586069" font-size="11">6.2%</text>
 <circle cx="22" cy="138" r="6" fill="#f1e05a"/>
 <text x="34" y="142" fill="#24292e" font-size="12">JavaScript</text>
 <text x="34" y="156" fill="#586069" font-size="11">4.8%</text>
@@ -31,7 +31,7 @@
 <text x="266" y="156" fill="#586069" font-size="11">3.9%</text>
 <circle cx="22" cy="168" r="6" fill="#41b883"/>
 <text x="34" y="172" fill="#24292e" font-size="12">Vue</text>
-<text x="34" y="186" fill="#586069" font-size="11">3.7%</text>
+<text x="34" y="186" fill="#586069" font-size="11">3.6%</text>
 <circle cx="254" cy="168" r="6" fill="#b07219"/>
 <text x="266" y="172" fill="#24292e" font-size="12">Java</text>
 <text x="266" y="186" fill="#586069" font-size="11">3.3%</text>
