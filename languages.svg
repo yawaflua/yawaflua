@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">
 <rect width="480" height="250" rx="6" fill="#fff" stroke="#e1e4e8"/>
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
-<rect x="16.00" y="44" width="240.61" height="8" fill="#00ADD8"/>
-<rect x="256.61" y="44" width="63.55" height="8" fill="#178600"/>
-<rect x="320.16" y="44" width="33.39" height="8" fill="#3178c6"/>
-<rect x="353.56" y="44" width="27.22" height="8" fill="#f34b7d"/>
-<rect x="380.78" y="44" width="22.46" height="8" fill="#f1e05a"/>
-<rect x="403.24" y="44" width="17.20" height="8" fill="#3572A5"/>
-<rect x="420.44" y="44" width="15.88" height="8" fill="#41b883"/>
-<rect x="436.32" y="44" width="14.60" height="8" fill="#b07219"/>
+<rect x="16.00" y="44" width="240.64" height="8" fill="#00ADD8"/>
+<rect x="256.64" y="44" width="63.56" height="8" fill="#178600"/>
+<rect x="320.19" y="44" width="33.39" height="8" fill="#3178c6"/>
+<rect x="353.59" y="44" width="27.22" height="8" fill="#f34b7d"/>
+<rect x="380.81" y="44" width="22.46" height="8" fill="#f1e05a"/>
+<rect x="403.27" y="44" width="17.16" height="8" fill="#3572A5"/>
+<rect x="420.43" y="44" width="15.88" height="8" fill="#41b883"/>
+<rect x="436.31" y="44" width="14.60" height="8" fill="#b07219"/>
 <rect x="450.91" y="44" width="9.88" height="8" fill="#ededed"/>
-<rect x="460.80" y="44" width="3.20" height="8" fill="#ededed"/>
+<rect x="460.79" y="44" width="3.21" height="8" fill="#ededed"/>
 <circle cx="22" cy="78" r="6" fill="#00ADD8"/>
 <text x="34" y="82" fill="#24292e" font-size="12">Go</text>
 <text x="34" y="96" fill="#586069" font-size="11">53.7%</text>
