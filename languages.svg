@@ -3,13 +3,13 @@
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
 <rect x="16.00" y="44" width="240.40" height="8" fill="#00ADD8"/>
 <rect x="256.40" y="44" width="63.49" height="8" fill="#178600"/>
-<rect x="319.90" y="44" width="33.36" height="8" fill="#3178c6"/>
+<rect x="319.89" y="44" width="33.36" height="8" fill="#3178c6"/>
 <rect x="353.26" y="44" width="27.20" height="8" fill="#f34b7d"/>
 <rect x="380.45" y="44" width="22.44" height="8" fill="#f1e05a"/>
-<rect x="402.90" y="44" width="17.14" height="8" fill="#3572A5"/>
+<rect x="402.89" y="44" width="17.14" height="8" fill="#3572A5"/>
 <rect x="420.04" y="44" width="15.86" height="8" fill="#41b883"/>
 <rect x="435.90" y="44" width="14.58" height="8" fill="#b07219"/>
-<rect x="450.49" y="44" width="10.31" height="8" fill="#ededed"/>
+<rect x="450.48" y="44" width="10.31" height="8" fill="#ededed"/>
 <rect x="460.80" y="44" width="3.20" height="8" fill="#ededed"/>
 <circle cx="22" cy="78" r="6" fill="#00ADD8"/>
 <text x="34" y="82" fill="#24292e" font-size="12">Go</text>
