@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">
 <rect width="480" height="250" rx="6" fill="#fff" stroke="#e1e4e8"/>
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
-<rect x="16.00" y="44" width="215.74" height="8" fill="#00ADD8"/>
-<rect x="231.74" y="44" width="69.70" height="8" fill="#f34b7d"/>
-<rect x="301.43" y="44" width="56.53" height="8" fill="#178600"/>
-<rect x="357.96" y="44" width="29.64" height="8" fill="#3178c6"/>
-<rect x="387.60" y="44" width="19.94" height="8" fill="#f1e05a"/>
-<rect x="407.54" y="44" width="17.38" height="8" fill="#3572A5"/>
-<rect x="424.92" y="44" width="14.09" height="8" fill="#41b883"/>
-<rect x="439.01" y="44" width="12.98" height="8" fill="#b07219"/>
-<rect x="451.99" y="44" width="9.16" height="8" fill="#ededed"/>
+<rect x="16.00" y="44" width="215.78" height="8" fill="#00ADD8"/>
+<rect x="231.78" y="44" width="69.68" height="8" fill="#f34b7d"/>
+<rect x="301.46" y="44" width="56.52" height="8" fill="#178600"/>
+<rect x="357.98" y="44" width="29.63" height="8" fill="#3178c6"/>
+<rect x="387.62" y="44" width="19.93" height="8" fill="#f1e05a"/>
+<rect x="407.55" y="44" width="17.38" height="8" fill="#3572A5"/>
+<rect x="424.93" y="44" width="14.09" height="8" fill="#41b883"/>
+<rect x="439.02" y="44" width="12.98" height="8" fill="#b07219"/>
+<rect x="452.00" y="44" width="9.16" height="8" fill="#ededed"/>
 <rect x="461.16" y="44" width="2.84" height="8" fill="#ededed"/>
 <circle cx="22" cy="78" r="6" fill="#00ADD8"/>
 <text x="34" y="82" fill="#24292e" font-size="12">Go</text>
@@ -25,7 +25,7 @@
 <text x="266" y="126" fill="#586069" font-size="11">6.6%</text>
 <circle cx="22" cy="138" r="6" fill="#f1e05a"/>
 <text x="34" y="142" fill="#24292e" font-size="12">JavaScript</text>
-<text x="34" y="156" fill="#586069" font-size="11">4.5%</text>
+<text x="34" y="156" fill="#586069" font-size="11">4.4%</text>
 <circle cx="254" cy="138" r="6" fill="#3572A5"/>
 <text x="266" y="142" fill="#24292e" font-size="12">Python</text>
 <text x="266" y="156" fill="#586069" font-size="11">3.9%</text>
