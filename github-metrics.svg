@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="752" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="751" class="">
     <defs>
         <style/>
     </defs>
@@ -31,17 +31,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -217,7 +217,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/>
                             </svg>
-                            שש-שבע
+                            SIX-SEVEN
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -237,7 +237,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.21k hours played
+                            2.22k hours played
                         </div>
                     </section>
                 </div>
@@ -300,15 +300,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABAYHBQMIAv/EACoQAAIBBAEDAwMFAQAAAAAAAAECAwAEBREhBhIxBxNBIjJRFDNhcYEV/8QAGgEAAgMBAQAAAAAAAAAAAAAABAUAAgMGAf/EAB8RAAMAAgIDAQEAAAAAAAAAAAABAgMRBCESIjEFE//aAAwDAQACEQMRAD8AkltYFzW/icQ0ja5ou0slVtaprxFosYDarlXmexoyL5e0ePKTKPCnlvivmzsri5aOOGJmkZtaA807nAS5nqz9HZjb3Ldm9cVTcjbdP+mtknvokuR7RtG5O/4oxZXU9A9PRJ7P02z95ErvbtAN7BcUPkfTPPxh2hhN22vtjGqdV9Y/1byPBYyrGnldiiMV6xYu9ulhu4ZLPnRdm4qirkz20Z+YpenfSN8b+6GQtpIiigaP53Vlj6Nga1QhiGcaI3XFcrDIiXMDx+23JIHkU12OUjmhV4x3AjQ1+aHeV5K9jWKI3boFbwK2LWTQ0KykB3RcUnYOay6CGja9Polssvf5iQKVVNRHX2sPmpF6rdQw5TKT3hlMlxIxjMZO+3XzVWylzbYXomQzSiKRyzKCeX38CvO1+iZLMApsGRuXPimnAlWwLM9AlwbiwcxOdyTICvbwOayZVkinYS/uHkUyZ+3/AOdZQyd4lkLFQ3nVLXbJN3TSHmnPbntA5a+jL6STpmKWV22p7QN/inrpDLSe28Tk9g+oGpp04v6Tp2KGQ/b9Z/2mLA3RFsrb1tiN/wAVzVSv6sJxhnZcdoPY3+URb2tzPKo9p9VXMNgrPs7p41IBranTF2iqIoELf0Koolztm9ZNkN9V7ae2sMZexa3bHu7GGwePkVB8t1DPkruee5jii0NIIk7ea9Q+puOfIdOX3sKZJQpMaj815Zy2Nu/3WgaONTo7HyPNMfzM0p6YHa2zOubyScBJnMigbBHxWtJjbeDGxX0GSglccmADmsUW8qkll2h8kCu8doJZo4LfuZmP2imtXKX0opKJ07m7m6x6yPGmlHaB2+aecfiJLkRSFgoP1aHFLGKxTWOMtQYyBvbU8Y27C9o0QEAJ/qkeovI2gmCvG5DxkKdf1WdNK3IY0Lfe7E49quLzOygP5pDearfqTQct1EzEyJvjWqyMjjMZkbKa2ntIkD70QoFFcJruYb818SOZWBOu0VZZ2l6/SaEu49KenGZZLUyIT57n2N1ndM+m1pgslLcylZVJ2u+dVQpWLW5CuCRzxQTTMS6nY0o81tfMyteOyeAILC3tp1mRVEbcdjjdB3djavtkBjk3yd8UfdSF5ollXYT6uOKEu5Pch9zQ9vetCs5y3PZ7rR//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAABQYHAwACBAH/xAAqEAABAwMDBAEDBQAAAAAAAAABAAIDBAURBiExEhNBURQVIlIWMkNhcf/EABsBAAIDAAMAAAAAAAAAAAAAAAIFAAMGAQQH/8QAKBEAAgEDAwMEAgMAAAAAAAAAAQIDAAQRBRIxIUFhE1FxgQYUJKHR/9oADAMBAAIRAxEAPwAFarP3ecpgjsLekcrbTroyPuHlNsfa6BhoTovHCmXOBWPigutQn9OAFj3pQFhb4yufQmn2nOljY8nIXr+IwnYIoZEmQOtUalbz6dcG2l5GKQfoTQd8r59CaBjfdO9bDDTR5fhDqarp6mrbAzHUo8saNtY9aCKG6mQyoCQOT8UsGxtHIKBXeziJji0FVt1tBac4SrqKgLYnYwjdVxVUFw+8Gh1hhO5zjCplm0y+spGy91oyk3T0AezxuccKxWaIQ2yJg9ZSzUFVkUnmtP8Ajt7PbSyJF0B56UAg0n239TpQY/69oBN3oKuSMggA439Jzsrrq6sqhcw0U/8AFgYys7rZmTvM0O0npLoNXhsZVt5zgN37fdHr1nLf/wAherjnyPFSm7TPq7t05cA0DIzssw2CnrGFp6ZHFa1UTo75UiUgOA4XaSFkkrZHt3buqbmXdMWzWg06AR2iIB2pkt9xjkj7U37sbFBNTHMTiBxwh9yqexCWNdh53BQL59XUu7LzlntMrO9LLsk+qzup6Ekbme3OByR7fFO2mKcOaD6KpkFV0U8bQOAp5pbjA9p4hOYxnwpdtkKtDo0eC8nucUYgl70Y95XmrZ207HdbwHeltQs6Yh+R4SZqruGOSUyluCRyk09ktw6u3C9SPfxTW4JwEBwWOB90r3eBzLtPK9zXB4yMLOii79VHEQSHFZEuduXF5K91k3ucBBGQ7hEuHlGBgZ4poytb2hGckLz9V0u2k6kS/IgcJR+ACGCzmmppZpozHJ+LlU3YAx5SrqbJhkJx/vhaEW6IdyivPzqtxcL6chz5obpOpBeGdQOT4VApXRkdJeBjfdQKw3vsgOY/pIPlOds1PCxpNTNnqGOUsuC23fz4FMrS8/XzEV65qvfLpo4y7vNDWjLiUm3+ogulKTSPDsuIGPaVX6mp+ksbL9pPk8oVNqTsujbTgFnUS7HhBFlgRgj5qx9QLOmQOhzz7Uaits5idJwI+UQtVtkgr6aSTycpUbqeY0E8PDnZwV3/AFXN3qVwORHjK4S3CkMK7c2rtMjRkgA5H9f7VZfs0pT1LvA5B3azyDl43S7fNVdyJ2HpiZ3IrLwwpuGOa//Z" alt="" />
                             <div class="about">
-                                <div class="name">Escape the Backrooms</div>
+                                <div class="name">Ultimate Chicken Horse</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Indie
+                                        Action, Casual, Indie
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -316,7 +316,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -324,7 +324,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 19 Oct 2026
+                                        Last played on 27 Oct 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -333,32 +333,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 34 achievements unlocked
+                                            7 / 31 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGCP/EACsQAAEEAQIEAwkAAAAAAAAAAAECAwQRAAUhEjFBUQYTIgcUI0JhcYGR8f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDnTSNTkaTqDE6C4G5LKuJCi2Fj8pUCCPoRmtd9pXiSVHdZdf09TbqChQGmRgaIo7+XY54H8NMxI+uM3JS4PUAjY36f7+sSdE01E+UETCmlqAtN2auq6b7ZhsF4e3QVkZco8IVuOlZoExtOEKTcnjWFAN/D4CU0d+/OsJvxdF93aQiSsRkoKkOqbHEpdbgjqLsfbCqMrGbZQQoWFDqDRyyRGNlSbUeZJwOl098d5x74Q0QdDHypyo9RSE2SkchewyEuHvjFL254xP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgABAwQHBf/EACgQAAEDAwIFBAMAAAAAAAAAAAECAwQABRESQQYhMVFhExSh4QczQv/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIG/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQARAgMSBBP/2gAMAwEAAhEDEQA/ANOScKBIzg5wd6b8jX9iPYo0uAhiO/6mh0rSBpHLHPfO1Khbj91HsYzDgylbhVjHYfdNa9fezGaH14HPd0k0fh1y3x+HIM65soM51vUts8zqzsnauPMeEiU68EBsLUVBA6DxVOE4Hocd0f22lXwKmoRr5yWW06eFzW1ioK44Ul64sslX62s4Hk/VGtB3FFjmzLy29GGtDwCSroG8DfxvTfmQztakeu/nQXCWyjFnhDsykfFXKhhMe1hsMatXpoCNXfA61NQcm1jGJWIT/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Escape Level 4</div>
-                                                <div class="unlocked">19 Oct 2026</div>
+                                                <div>Gettin' Fancy</div>
+                                                <div class="unlocked">19 Sept 2026</div>
                                             </div>
-                                            <div class="description">Find the exit in the Abandoned Office</div>
+                                            <div class="description">Unlock an outfit</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAL/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMRAAQFBiESEyIxQQcUURVhYiMycoKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBESED/9oADAMBAAIRAxEAPwCese08XuFC17KfEAnwmRTdwWnbjXePxt3iCWcshIt723HQl0JHQ+kDYSBwq/KD5pd4AIRnGiP2C7uBB+OXIqn/AE/v8RisRir9kNou7krClJ26THTA28VldtouiZYBZv01zOAwTz95aqecCSEweIA/JpP6mxb2PaY4+Ml11AU8D+m7tvwfKdu/mrM1xqiyRjX2ucFpctXu/YkNqMVIGr7j3D1omSQ2bZAEzA5Ux/tEY2C2roP4664L9CgYPulK2+7VGejdS44tWzeYduFttDpCFEUtmXlc1BiAHAe34xXNq4pEQSPvVGSJJL0lR26xz+m38W79O90m65akoWXSQklJHbyN6VmVu+O8IKpCXmwD/FmKyPuk2ilIcEbz2rFdOqW6pUHdcz/SKEShbpZ//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgYAAQQF/8QAJxAAAgIBAwMEAgMAAAAAAAAAAQIDEQQABSESMUEGE1FhFJEigeH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQMGB//EACkRAAECBAUEAQUAAAAAAAAAAAECAwAEEUEFBiExURIUYXGBE4KR8PH/2gAMAwEAAhEDEQA/AG/xz40TIV58HsRqY/tTStCZ1jlsBQw/ixPi/B1bRzYmQ6ScN3KFrBB7asSsVQ4+WJdQKk1qnY+wf0RkTOAqale4nklCFAFK9xrYjfXfnwYDU1jxtzxszKeKDhgaA6gb8cee+ujt8RbMrLKiCrqipUgnj+9EnE2AEmupteIEZZnluLb6dEa1sRanv+xgnxeol4mKPfV9X86vFkG3QZW6Z0bStCOiOMsLkc/F/WtOgmiSaMxyqGU9wdK8Uy81NAqZPQo78EX9VhzgmdpmTSGJsfUbG3I41v8AP5hFfHQ5bZkYmxCbm9yPqRoxXIAuqsgXpy9O7s+8bAW3OP3MlrCzAdJq+Bfc1Xf/AHS9uPpZ3K/j5DlGcFkPavmrr9frTPi46YuPHDCtIgoDQzGBpedSX0kdFPmnniG2K5rS1KHs3ApTlftF6ix4tcR//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Escape Level 3</div>
-                                                <div class="unlocked">18 Oct 2026</div>
+                                                <div>Engineer</div>
+                                                <div class="unlocked">19 Sept 2026</div>
                                             </div>
-                                            <div class="description">Find the exit in the Electrical Station.</div>
+                                            <div class="description">Glue four blocks together</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -369,7 +369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2026, 05:07:44 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2026, 05:20:46 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
