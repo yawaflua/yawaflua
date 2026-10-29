@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">
 <rect width="480" height="250" rx="6" fill="#fff" stroke="#e1e4e8"/>
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
-<rect x="16.00" y="44" width="198.03" height="8" fill="#00ADD8"/>
-<rect x="214.03" y="44" width="84.94" height="8" fill="#f34b7d"/>
-<rect x="298.96" y="44" width="51.42" height="8" fill="#178600"/>
-<rect x="350.39" y="44" width="34.53" height="8" fill="#3572A5"/>
-<rect x="384.92" y="44" width="26.12" height="8" fill="#3178c6"/>
-<rect x="411.04" y="44" width="17.96" height="8" fill="#f1e05a"/>
-<rect x="429.00" y="44" width="12.42" height="8" fill="#41b883"/>
-<rect x="441.42" y="44" width="11.90" height="8" fill="#b07219"/>
-<rect x="453.32" y="44" width="8.17" height="8" fill="#ededed"/>
-<rect x="461.49" y="44" width="2.51" height="8" fill="#ededed"/>
+<rect x="16.00" y="44" width="198.35" height="8" fill="#00ADD8"/>
+<rect x="214.35" y="44" width="84.83" height="8" fill="#f34b7d"/>
+<rect x="299.17" y="44" width="51.36" height="8" fill="#178600"/>
+<rect x="350.53" y="44" width="34.49" height="8" fill="#3572A5"/>
+<rect x="385.02" y="44" width="26.09" height="8" fill="#3178c6"/>
+<rect x="411.11" y="44" width="17.94" height="8" fill="#f1e05a"/>
+<rect x="429.05" y="44" width="12.41" height="8" fill="#41b883"/>
+<rect x="441.45" y="44" width="11.88" height="8" fill="#b07219"/>
+<rect x="453.34" y="44" width="8.16" height="8" fill="#ededed"/>
+<rect x="461.50" y="44" width="2.50" height="8" fill="#ededed"/>
 <circle cx="22" cy="78" r="6" fill="#00ADD8"/>
 <text x="34" y="82" fill="#24292e" font-size="12">Go</text>
-<text x="34" y="96" fill="#586069" font-size="11">44.2%</text>
+<text x="34" y="96" fill="#586069" font-size="11">44.3%</text>
 <circle cx="254" cy="78" r="6" fill="#f34b7d"/>
 <text x="266" y="82" fill="#24292e" font-size="12">C++</text>
-<text x="266" y="96" fill="#586069" font-size="11">19.0%</text>
+<text x="266" y="96" fill="#586069" font-size="11">18.9%</text>
 <circle cx="22" cy="108" r="6" fill="#178600"/>
 <text x="34" y="112" fill="#24292e" font-size="12">C#</text>
 <text x="34" y="126" fill="#586069" font-size="11">11.5%</text>
