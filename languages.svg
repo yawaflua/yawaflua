@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;">
 <rect width="480" height="250" rx="6" fill="#fff" stroke="#e1e4e8"/>
 <text x="16" y="28" font-size="15" font-weight="600" fill="#24292e">Most used languages</text>
-<rect x="16.00" y="44" width="201.81" height="8" fill="#00ADD8"/>
-<rect x="217.81" y="44" width="83.05" height="8" fill="#f34b7d"/>
-<rect x="300.85" y="44" width="50.13" height="8" fill="#178600"/>
-<rect x="350.98" y="44" width="33.87" height="8" fill="#3572A5"/>
-<rect x="384.86" y="44" width="26.04" height="8" fill="#3178c6"/>
-<rect x="410.90" y="44" width="17.94" height="8" fill="#f1e05a"/>
-<rect x="428.84" y="44" width="12.11" height="8" fill="#41b883"/>
-<rect x="440.95" y="44" width="11.60" height="8" fill="#b07219"/>
-<rect x="452.55" y="44" width="7.96" height="8" fill="#ededed"/>
-<rect x="460.51" y="44" width="3.49" height="8" fill="#ededed"/>
+<rect x="16.00" y="44" width="202.21" height="8" fill="#00ADD8"/>
+<rect x="218.21" y="44" width="82.89" height="8" fill="#f34b7d"/>
+<rect x="301.10" y="44" width="50.04" height="8" fill="#178600"/>
+<rect x="351.14" y="44" width="33.85" height="8" fill="#3572A5"/>
+<rect x="384.99" y="44" width="25.99" height="8" fill="#3178c6"/>
+<rect x="410.98" y="44" width="17.93" height="8" fill="#f1e05a"/>
+<rect x="428.91" y="44" width="12.09" height="8" fill="#41b883"/>
+<rect x="440.99" y="44" width="11.58" height="8" fill="#b07219"/>
+<rect x="452.57" y="44" width="7.95" height="8" fill="#ededed"/>
+<rect x="460.52" y="44" width="3.48" height="8" fill="#ededed"/>
 <circle cx="22" cy="78" r="6" fill="#00ADD8"/>
 <text x="34" y="82" fill="#24292e" font-size="12">Go</text>
-<text x="34" y="96" fill="#586069" font-size="11">45.0%</text>
+<text x="34" y="96" fill="#586069" font-size="11">45.1%</text>
 <circle cx="254" cy="78" r="6" fill="#f34b7d"/>
 <text x="266" y="82" fill="#24292e" font-size="12">C++</text>
 <text x="266" y="96" fill="#586069" font-size="11">18.5%</text>
